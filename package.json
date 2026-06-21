@@ -1,0 +1,30 @@
+{
+  "name": "emberwreath-site",
+  "version": "1.0.0",
+  "description": "Player-facing website for the Emberwreath D&D campaign setting.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+  "start": "eleventy --serve",
+  "build": "eleventy --pathprefix=/emberwreath-site/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshkalk/emberwreath-site.git"
+  },
+  "keywords": [
+    "dnd",
+    "campaign-setting",
+    "eleventy",
+    "static-site"
+  ],
+  "author": "Josh Kalk",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/joshkalk/emberwreath-site/issues"
+  },
+  "homepage": "https://joshkalk.github.io/emberwreath-site/",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}

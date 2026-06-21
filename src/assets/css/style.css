@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  background: #f4efe5;
+  color: #241c16;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1rem 2rem;
+  background: #2b2118;
+}
+
+.site-nav a {
+  color: #f4efe5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.78);
+  min-height: 100vh;
+}
+
+.callout {
+  border-left: 4px solid #8b4a2f;
+  padding: 1rem;
+  background: #efe2cf;
+  margin: 1.5rem 0;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.card {
+  background: #fff8ee;
+  border: 1px solid #d8c4aa;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.card h2,
+.card h3 {
+  margin-top: 0;
+}
