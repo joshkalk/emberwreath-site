@@ -77,3 +77,34 @@ body {
   color: #5b4738;
   font-size: 0.95rem;
 }
+
+.species-card img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  border-radius: 0.35rem;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff8ee;
+}
+
+.comparison-table th,
+.comparison-table td {
+  border: 1px solid #d8c4aa;
+  padding: 0.65rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+.comparison-table th {
+  background: #efe2cf;
+}
