@@ -1,3 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* All content images must be constrained by either these global responsive image rules or a page-specific image class. */
+img,
+picture,
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
 body {
   margin: 0;
   font-family: Georgia, serif;
@@ -39,11 +53,18 @@ body {
   margin: 1.5rem 0;
 }
 
-.card-grid {
+.card-grid,
+.species-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
   gap: 1rem;
   margin: 1.5rem 0;
+}
+
+.card,
+.species-card {
+  min-width: 0;
+  overflow: hidden;
 }
 
 .card {
@@ -76,4 +97,49 @@ body {
   margin-top: 0.5rem;
   color: #5b4738;
   font-size: 0.95rem;
+}
+
+.species-card {
+  background: #fff8ee;
+  border: 1px solid #d8c4aa;
+  border-radius: 0.5rem;
+}
+
+.species-card-image {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.species-card-body {
+  padding: 1rem;
+}
+
+.species-card h2 {
+  margin-top: 0;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff8ee;
+}
+
+.comparison-table th,
+.comparison-table td {
+  border: 1px solid #d8c4aa;
+  padding: 0.65rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+.comparison-table th {
+  background: #efe2cf;
 }
