@@ -1,3 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* All content images must be constrained by either these global responsive image rules or a page-specific image class. */
+img,
+picture,
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
 body {
   margin: 0;
   font-family: Georgia, serif;
@@ -39,11 +53,18 @@ body {
   margin: 1.5rem 0;
 }
 
-.card-grid {
+.card-grid,
+.species-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
   gap: 1rem;
   margin: 1.5rem 0;
+}
+
+.card,
+.species-card {
+  min-width: 0;
+  overflow: hidden;
 }
 
 .card {
