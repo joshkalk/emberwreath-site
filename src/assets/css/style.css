@@ -78,33 +78,91 @@ body {
 .card h3 {
   margin-top: 0;
 }
+
 .image-frame {
-  margin: 1.5rem 0;
+  margin: 2rem 0;
+  padding: 0.75rem;
+  background: #fff8ee;
+  border: 1px solid #d8c4aa;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+}
+
+.image-frame img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.image-frame figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  text-align: center;
+  color: #5f4c3d;
+}
+
+.species-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff8ee;
+  border: 1px solid #d8c4aa;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  min-width: 0;
+}
+
+.species-card-media {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: #efe2cf;
+}
+
+.species-card-media img,
+.species-card-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.species-card-body {
+  padding: 1rem;
+}
+
+.hero-image {
+  margin: 2rem 0;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  border: 1px solid #d8c4aa;
+  background: #fff8ee;
+}
+
+.hero-image img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
+}
+
+.reference-image {
+  margin: 2rem 0;
   padding: 0.75rem;
   background: #fff8ee;
   border: 1px solid #d8c4aa;
   border-radius: 0.5rem;
 }
 
-.image-frame img {
+.reference-image img {
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 0.35rem;
-}
-
-.image-frame figcaption {
-  margin-top: 0.5rem;
-  color: #5b4738;
-  font-size: 0.95rem;
-}
-
-.species-card img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 1rem;
-  border-radius: 0.35rem;
+  object-fit: contain;
 }
 
 .table-wrap {
@@ -120,8 +178,8 @@ body {
 
 .comparison-table th,
 .comparison-table td {
+  padding: 0.75rem;
   border: 1px solid #d8c4aa;
-  padding: 0.65rem;
   vertical-align: top;
   text-align: left;
 }
