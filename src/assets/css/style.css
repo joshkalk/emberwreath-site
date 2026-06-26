@@ -99,26 +99,12 @@ body {
   font-size: 0.95rem;
 }
 
-.species-card {
-  background: #fff8ee;
-  border: 1px solid #d8c4aa;
-  border-radius: 0.5rem;
-}
-
-.species-card-image {
+.species-card img {
   display: block;
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-  object-position: center;
-}
-
-.species-card-body {
-  padding: 1rem;
-}
-
-.species-card h2 {
-  margin-top: 0;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  border-radius: 0.35rem;
 }
 
 .table-wrap {
