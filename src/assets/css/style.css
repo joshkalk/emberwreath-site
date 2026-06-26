@@ -57,3 +57,23 @@ body {
 .card h3 {
   margin-top: 0;
 }
+.image-frame {
+  margin: 1.5rem 0;
+  padding: 0.75rem;
+  background: #fff8ee;
+  border: 1px solid #d8c4aa;
+  border-radius: 0.5rem;
+}
+
+.image-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.35rem;
+}
+
+.image-frame figcaption {
+  margin-top: 0.5rem;
+  color: #5b4738;
+  font-size: 0.95rem;
+}
