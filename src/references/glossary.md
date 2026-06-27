@@ -9,7 +9,7 @@ Quick definitions for common Emberwreath terms. Entries are short, player-facing
 
 ## A
 
-**Ashspine:** [Kelden]({{ '/species/' | url }}#kelden) homeland of volcanic cliffs, ash slopes, vents, ledges, mining, rescue culture, and dangerous extraction.
+**Ashspine:** [Kelden]({{ '/species/kelden/' | url }}) homeland of volcanic cliffs, ash slopes, vents, ledges, mining, rescue culture, and dangerous extraction.
 
 **Aumari:** Soft-bodied brine-gel people from the [Tidefall Atolls]({{ '/atlas/island-quick-reference/' | url }}#tidefall-atolls), shaped by reefs, brine pools, tide roads, and fragile freshwater.
 
@@ -17,7 +17,7 @@ Quick definitions for common Emberwreath terms. Entries are short, player-facing
 
 ## B
 
-**Breadbasket:** [Human]({{ '/species/' | url }}#humans) homeland and agricultural core of [Emberwreath]({{ '/start-here/what-is-emberwreath/' | url }}), known for farms, roads, granaries, mills, ports, crowns, and food politics.
+**Breadbasket:** [Human]({{ '/species/humans/' | url }}) homeland and agricultural core of [Emberwreath]({{ '/start-here/what-is-emberwreath/' | url }}), known for farms, roads, granaries, mills, ports, crowns, and food politics.
 
 **Breakwater:** Major cosmopolitan harbor, repair yard, warehouse island, and trade hub. It is powerful because goods and ships pass through it, but it does not rule Emberwreath.
 
@@ -25,7 +25,7 @@ Quick definitions for common Emberwreath terms. Entries are short, player-facing
 
 ## C
 
-**Caelmere:** [Scolen]({{ '/species/' | url }}#scolen) homeland of crater lakes, reservoirs, canals, archives, public works, water law, and civic memory.
+**Caelmere:** [Scolen]({{ '/species/scolen/' | url }}) homeland of crater lakes, reservoirs, canals, archives, public works, water law, and civic memory.
 
 **Caldera:** The dangerous volcanic heart of Emberwreath. Most people know it through warnings, route taboos, eruption memory, sailor stories, and fear of forbidden shortcuts.
 
@@ -91,13 +91,13 @@ Quick definitions for common Emberwreath terms. Entries are short, player-facing
 
 ## S
 
-**Saffra:** [Zivari]({{ '/species/' | url }}#zivari) homeland of warm terraces, orchards, medicines, dyes, spices, public reputation, and careful cultivation.
+**Saffra:** [Zivari]({{ '/species/zivari/' | url }}) homeland of warm terraces, orchards, medicines, dyes, spices, public reputation, and careful cultivation.
 
 **Scolen:** Many-legged civic water people from Caelmere, shaped by reservoirs, canals, archives, water law, maintenance, and communal memory.
 
 **Stormhook:** Maritime island of fishing, pilotage, rescue, lighthouses, current knowledge, and dangerous-sea expertise.
 
-**Sunspire:** [Veyr]({{ '/species/' | url }}#veyr) homeland of dry routes, boundary markers, reservoirs, herding lands, new coastal trade life, and forbidden ruins.
+**Sunspire:** [Veyr]({{ '/species/veyr/' | url }}) homeland of dry routes, boundary markers, reservoirs, herding lands, new coastal trade life, and forbidden ruins.
 
 ## T
 

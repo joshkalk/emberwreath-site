@@ -27,7 +27,7 @@ Follow this order if you are starting from nothing:
 
 1. **World Overview:** Read [What Is Emberwreath?]({{ '/start-here/what-is-emberwreath/' | url }}) for the basic campaign pitch, then [Map in Two Minutes]({{ '/start-here/map-in-two-minutes/' | url }}) if you want a quick geography pass.
 2. **History & Beliefs:** Skim [History & Beliefs]({{ '/history-beliefs/' | url }}) for the public memory, religious context, and warnings ordinary people know.
-3. **Species:** Use the [Species Comparison]({{ '/species/species-comparison/' | url }}) first, then open [Playable Species]({{ '/species/' | url }}) only for the species that interest you.
+3. **Species:** Use the [Species Comparison]({{ '/species/species-comparison/' | url }}) for a quick decision, browse [Playable Species]({{ '/species/' | url }}) visually, then open the full species pages for options you are seriously considering.
 4. **Islands as needed:** Use the [Island Quick Reference]({{ '/atlas/island-quick-reference/' | url }}) when you need a homeland, adopted island, travel route, or environment. You do not need to read the full Atlas up front.
 5. **Character creation notes:** Use [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }}), [Travel Reason Prompts]({{ '/make-a-character/travel-reason-prompts/' | url }}), and the [Party Origin Builder]({{ '/make-a-character/party-origin-builder/' | url }}) when you are ready to make choices.
 
@@ -35,71 +35,71 @@ Follow this order if you are starting from nothing:
 
 Species comes first in this campaign's character creation flow because each playable species has a homeland and a strong starting viewpoint. That does not mean every member of a species is the same, or that every character must come from their ancestral homeland.
 
-Use the prompts below to narrow your options. If one category sounds fun, open the linked species overview and read just that entry.
+Use the prompts below to narrow your options. If one category sounds fun, open the linked full species page and read the parts that help you decide.
 
 ### If you want a homeland-centered character
 
 Choose a species whose homeland immediately gives you a place, community, and set of expectations to react to.
 
-- [Humans]({{ '/species/' | url }}#humans): Breadbasket farms, roads, granaries, ports, crowns, and civic pressure.
-- [Zivari]({{ '/species/' | url }}#zivari): Saffra terraces, trade houses, healers, reputation, and public proof.
-- [Ferren]({{ '/species/' | url }}#ferren): Greenwood forests, timber roads, winter shelters, harbors, and kin loyalty.
-- [Scolen]({{ '/species/' | url }}#scolen): Caelmere lakes, reservoirs, canals, archives, and public works.
+- [Humans]({{ '/species/humans/' | url }}): Breadbasket farms, roads, granaries, ports, crowns, and civic pressure.
+- [Zivari]({{ '/species/zivari/' | url }}): Saffra terraces, trade houses, healers, reputation, and public proof.
+- [Ferren]({{ '/species/ferren/' | url }}): Greenwood forests, timber roads, winter shelters, harbors, and kin loyalty.
+- [Scolen]({{ '/species/scolen/' | url }}): Caelmere lakes, reservoirs, canals, archives, and public works.
 
 ### If you want a traveler, trader, or route-shaped character
 
-Choose a species whose overview already points toward roads, ports, navigation, cargo, or movement between islands.
+Choose a species whose full page points toward roads, ports, navigation, cargo, or movement between islands.
 
-- [Humans]({{ '/species/' | url }}#humans): food systems, roads, soldiers, debts, law, and ambition moving across the archipelago.
-- [Aumari]({{ '/species/' | url }}#aumari): reef flats, tides, brine pools, tidal roads, sensory knowledge, and navigation.
-- [Veyr]({{ '/species/' | url }}#veyr): old roads, herds, dryland travel, route-witnessing, and boundary keeping.
-- [Zivari]({{ '/species/' | url }}#zivari): cultivation, medicine, trade goods, presentation, and reputation beyond home.
+- [Humans]({{ '/species/humans/' | url }}): food systems, roads, soldiers, debts, law, and ambition moving across the archipelago.
+- [Aumari]({{ '/species/aumari/' | url }}): reef flats, tides, brine pools, tidal roads, sensory knowledge, and navigation.
+- [Veyr]({{ '/species/veyr/' | url }}): old roads, herds, dryland travel, route-witnessing, and boundary keeping.
+- [Zivari]({{ '/species/zivari/' | url }}): cultivation, medicine, trade goods, presentation, and reputation beyond home.
 
 ### If you want ancient duty, taboo, or restraint
 
 Choose a species whose public culture gives your character a reason to respect boundaries, remember warnings, or carry old responsibilities without needing secret answers.
 
-- [Veyr]({{ '/species/' | url }}#veyr): sacred boundaries, restraint, old roads, and places that should not be reopened.
-- [Thryss]({{ '/species/' | url }}#thryss): patience, elder memory, hidden valleys, and careful stewardship of fragile land.
-- [Scolen]({{ '/species/' | url }}#scolen): memory, archives, water law, maintenance, and the consequences of forgetting.
+- [Veyr]({{ '/species/veyr/' | url }}): sacred boundaries, restraint, old roads, and places that should not be reopened.
+- [Thryss]({{ '/species/thryss/' | url }}): patience, elder memory, hidden valleys, and careful stewardship of fragile land.
+- [Scolen]({{ '/species/scolen/' | url }}): memory, archives, water law, maintenance, and the consequences of forgetting.
 
 ### If you want survival in harsh lands
 
 Choose a species tied to demanding environments where daily life requires skill, caution, and endurance.
 
-- [Kelden]({{ '/species/' | url }}#kelden): Ashspine cliffs, ash slopes, vents, ledges, rescue, and controlled risk.
-- [Aumari]({{ '/species/' | url }}#aumari): reefs, tides, fragile shelters, adaptation, and yielding without losing form.
-- [Ferren]({{ '/species/' | url }}#ferren): cold forests, ropeways, hunting, climbing, rescue, and winter shelter.
-- [Thryss]({{ '/species/' | url }}#thryss): mist valleys, damp stone, root terraces, patience, and fragile ecosystems.
+- [Kelden]({{ '/species/kelden/' | url }}): Ashspine cliffs, ash slopes, vents, ledges, rescue, and controlled risk.
+- [Aumari]({{ '/species/aumari/' | url }}): reefs, tides, fragile shelters, adaptation, and yielding without losing form.
+- [Ferren]({{ '/species/ferren/' | url }}): cold forests, ropeways, hunting, climbing, rescue, and winter shelter.
+- [Thryss]({{ '/species/thryss/' | url }}): mist valleys, damp stone, root terraces, patience, and fragile ecosystems.
 
 ### If you want a social outsider
 
 Any species can be an outsider if they grew up away from an ancestral homeland, crossed into a new settlement, rejected an expected role, or returned home changed. These options especially support characters negotiating presentation, access, memory, or belonging.
 
-- [Axali]({{ '/species/' | url }}#axali): hidden rivers, hospitality, poise, beauty with stakes, controlled access, and social consequence.
-- [Zivari]({{ '/species/' | url }}#zivari): reputation, display, judgment, and the pressure to prove what one claims.
-- [Veyr]({{ '/species/' | url }}#veyr): visible restraint, boundary keeping, and questions about what should remain closed.
-- [Thryss]({{ '/species/' | url }}#thryss): secrecy, elder memory, and quiet endurance in places others may not understand.
+- [Axali]({{ '/species/axali/' | url }}): hidden rivers, hospitality, poise, beauty with stakes, controlled access, and social consequence.
+- [Zivari]({{ '/species/zivari/' | url }}): reputation, display, judgment, and the pressure to prove what one claims.
+- [Veyr]({{ '/species/veyr/' | url }}): visible restraint, boundary keeping, and questions about what should remain closed.
+- [Thryss]({{ '/species/thryss/' | url }}): secrecy, elder memory, and quiet endurance in places others may not understand.
 
 ### If you want a practical community role
 
 Emberwreath characters often matter because they do needed work. Pick a species whose home culture suggests a useful job or social responsibility.
 
-- [Scolen]({{ '/species/' | url }}#scolen): reservoir worker, archivist, canal keeper, water-law witness, or infrastructure specialist.
-- [Ferren]({{ '/species/' | url }}#ferren): rescuer, hunter, timber scout, climber, harbor worker, or shelter-keeper.
-- [Humans]({{ '/species/' | url }}#humans): road worker, trader, clerk, farmer, guard, legal aide, or ambitious public servant.
-- [Kelden]({{ '/species/' | url }}#kelden): stone judge, vent guide, cliff rescuer, craft worker, or calm risk manager.
-- [Axali]({{ '/species/' | url }}#axali): host, pigment worker, textile worker, bath attendant, mediator, or access keeper.
+- [Scolen]({{ '/species/scolen/' | url }}): reservoir worker, archivist, canal keeper, water-law witness, or infrastructure specialist.
+- [Ferren]({{ '/species/ferren/' | url }}): rescuer, hunter, timber scout, climber, harbor worker, or shelter-keeper.
+- [Humans]({{ '/species/humans/' | url }}): road worker, trader, clerk, farmer, guard, legal aide, or ambitious public servant.
+- [Kelden]({{ '/species/kelden/' | url }}): stone judge, vent guide, cliff rescuer, craft worker, or calm risk manager.
+- [Axali]({{ '/species/axali/' | url }}): host, pigment worker, textile worker, bath attendant, mediator, or access keeper.
 
 ### If you want ties to sacred geography
 
 Choose a species whose homeland or social role makes places, routes, waters, boundaries, or fragile land feel meaningful.
 
-- [Veyr]({{ '/species/' | url }}#veyr): Sunspire roads, herds, dry routes, and protective boundaries.
-- [Scolen]({{ '/species/' | url }}#scolen): Caelmere lakes, reservoirs, canals, and archives.
-- [Aumari]({{ '/species/' | url }}#aumari): Tidefall reef flats, brine pools, tides, and fragile shelters.
-- [Thryss]({{ '/species/' | url }}#thryss): Veilgarden mist valleys, root terraces, damp stone, and careful agriculture.
-- [Kelden]({{ '/species/' | url }}#kelden): Ashspine cliffs, vents, ash slopes, and broken ridges.
+- [Veyr]({{ '/species/veyr/' | url }}): Sunspire roads, herds, dry routes, and protective boundaries.
+- [Scolen]({{ '/species/scolen/' | url }}): Caelmere lakes, reservoirs, canals, and archives.
+- [Aumari]({{ '/species/aumari/' | url }}): Tidefall reef flats, brine pools, tides, and fragile shelters.
+- [Thryss]({{ '/species/thryss/' | url }}): Veilgarden mist valleys, root terraces, damp stone, and careful agriculture.
+- [Kelden]({{ '/species/kelden/' | url }}): Ashspine cliffs, vents, ash slopes, and broken ridges.
 
 ## Choosing a homeland or starting place
 

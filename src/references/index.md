@@ -23,6 +23,12 @@ Some Emberwreath mysteries are intentionally not explained in player-facing refe
   </section>
 </div>
 
+## Utility References
+
+Use the official fillable 5e character sheet when you are ready to put your character together.
+
+[Download the fillable 5e character sheet](https://media.wizards.com/2016/dnd/downloads/5E_CharacterSheet_Fillable.pdf)
+
 ## Back to play
 
 - [Start Here]({{ '/start-here/' | url }})
