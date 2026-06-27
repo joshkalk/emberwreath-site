@@ -5,7 +5,7 @@ layout: layout.njk
 
 # Glossary
 
-Quick definitions for common Emberwreath terms. Entries are short, player-facing, and meant to help you read character, atlas, and belief pages without digging for lore.
+Quick definitions for common Emberwreath terms. Use this page when a name, place, species, or tradition appears elsewhere on the site.
 
 ## A
 
