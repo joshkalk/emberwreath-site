@@ -10,7 +10,7 @@ Welcome to Emberwreath.
 You do not need to read everything before making a character. The player site is here to help you make useful choices, not to assign homework.
 
 <div class="callout">
-<strong>Shortest useful reading path:</strong> read the three orientation pages below, choose a species, choose a homeland or adopted island, then make the character you want to play.
+<strong>Shortest useful reading path:</strong> read the three orientation pages below, then use the Character Creation Guide to choose a species, homeland or adopted island, and reason to travel.
 </div>
 
 ## Read first
@@ -33,6 +33,12 @@ You do not need to read everything before making a character. The player site is
     <p>Common knowledge, local knowledge, and rumors that ordinary characters might bring into play.</p>
     <p><a href="{{ '/start-here/what-your-character-knows/' | url }}">Review character knowledge</a></p>
   </section>
+
+  <section class="card">
+    <h2>Character Creation Guide</h2>
+    <p>A practical reading order and species-choice guide for new players who do not want homework.</p>
+    <p><a href="{{ '/make-a-character/character-creation-guide/' | url }}">Choose a character direction</a></p>
+  </section>
 </div>
 
 ## Then make a character
@@ -41,6 +47,7 @@ In this campaign's character creation flow, **species comes first**. Each playab
 
 Useful next pages:
 
+- [Character Creation Guide]({{ '/make-a-character/character-creation-guide/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Species Comparison]({{ '/species/comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
