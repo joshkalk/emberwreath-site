@@ -5,7 +5,7 @@ layout: layout.njk
 
 # Where Are You From?
 
-Origin does not have to match species homeland. A Human can grow up far from Breadbasket; a Thryss can be shaped by a port; a Scolen can come from a route crew. Still, homeland matters culturally. It gives your character inherited expectations, stories, manners, foods, obligations, and assumptions to accept, adapt, or resist.
+Origin does not have to match species homeland. A Human can grow up far from Breadbasket, a Thryss can be shaped by a port, and a Scolen can come from a route crew. Homeland still matters. It gives your character inherited expectations, stories, manners, foods, obligations, and assumptions to accept, adapt, or resist.
 
 Choose one origin frame, then add one sentence about how it shaped you.
 
@@ -23,9 +23,9 @@ Decide what stayed from the old homeland and what changed. Your character may fe
 
 ## Trade port upbringing
 
-You grew up around docks, warehouses, pilots, caravan factors, clerks, visiting crews, and many species living side by side.
+You grew up around docks, warehouses, pilots, traders, clerks, visiting crews, and many species living side by side.
 
-This works well for characters who know the Wreath through movement, bargaining, schedules, shortages, and news from elsewhere.
+This works well for characters who know Emberwreath through movement, bargaining, schedules, shortages, and news from elsewhere.
 
 ## Frontier or work-camp upbringing
 
@@ -43,16 +43,15 @@ Your first map of Emberwreath may be a chain of harbors, weather signs, reefs, c
 
 You were shaped by travelers, offerings, warnings, holy waters, shrine routes, or families who served pilgrims.
 
-The Veiled Reefs are known as a newer multi-species pilgrimage tradition tied to sacred waters, dangerous routes, wreck memory, and boundaries. You do not need secret answers to have a meaningful connection to that reputation.
+The Veiled Reefs are known as a newer multi-species pilgrimage tradition tied to sacred waters, dangerous routes, wreck memory, and boundaries. Your character can be shaped by that reputation without knowing everything behind it.
 
 ## Post-eruption family history
 
 The major eruption 60 years ago still shapes institutions, elders, families, shortages, and caution.
 
-Your family might remember evacuation, rebuilding, scarcity, lost records, changed work, altered marriages, debt, migration, or a rule that began as a survival habit.
+Your family might remember evacuation, rebuilding, scarcity, lost records, changed work, changed family plans, debt, migration, or a rule that began as a survival habit.
 
 ## Read next
 
 - [Character Creation Guide]({{ '/make-a-character/character-creation-guide/' | url }})
 - [Travel Reason Prompts]({{ '/make-a-character/travel-reason-prompts/' | url }})
-- [Party Origin Builder]({{ '/make-a-character/party-origin-builder/' | url }})
