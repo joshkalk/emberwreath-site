@@ -11,6 +11,13 @@ Use this section when you are ready to turn the setting overview and species pag
 <strong>Start here:</strong> choose a species, choose where your character is from, then give them a practical reason to be away from home.
 </div>
 
+
+## Character Sheet
+
+Use the official fillable 5e character sheet when you are ready to put your character together.
+
+[Download the fillable 5e character sheet](https://media.wizards.com/2016/dnd/downloads/5E_CharacterSheet_Fillable.pdf)
+
 ## The shortest path
 
 1. Skim the [Species Comparison]({{ '/species/species-comparison/' | url }}) or browse [Playable Species]({{ '/species/' | url }}).
