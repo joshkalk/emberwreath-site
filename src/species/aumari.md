@@ -5,9 +5,7 @@ layout: layout.njk
 
 # Aumari
 
-**Homeland:** Tidefall Atolls
-
-The low road was gone by noon. Iru of Salt-Hollow pressed one formed hand to the reef, tasted the water through their skin, and drew back. “Not this channel,” they said. “The tide has cut it deeper than it looks. We wait, or we lose someone.”
+*The low road was gone by noon. Iru of Salt-Hollow pressed one formed hand to the reef, tasted the water through their skin, and drew back. “Not this channel,” they said. “The tide has cut it deeper than it looks. We wait, or we lose someone.”*
 
 ## At a glance
 

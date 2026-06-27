@@ -5,9 +5,7 @@ layout: layout.njk
 
 # Scolen
 
-**Homeland:** Caelmere
-
-The lower gate cracked before dawn. By sunrise, half the canal district was awake, hauling stone, rope, and timber through the rain. At the center of it all stood Belmar of Eastmere Gate, antennae still as reeds, one hand pressed to the old flood marks carved into the wall. She did not shout. She only said, “This failed once before. We remember how to hold it.”
+*The lower gate cracked before dawn. By sunrise, half the canal district was awake, hauling stone, rope, and timber through the rain. At the center of it all stood Belmar of Eastmere Gate, antennae still as reeds, one hand pressed to the old flood marks carved into the wall. She did not shout. She only said, “This failed once before. We remember how to hold it.”*
 
 ## At a glance
 
