@@ -7,7 +7,6 @@ layout: layout.njk
 
 Emberwreath is a volcanic archipelago. Sailors often call it the Wreath, while older poems and religious traditions sometimes call it the Broken Wreath. No single crown, temple, guild, species, or island rules all of it.
 
-Use this page for a broad player-facing summary, not a full encyclopedia.
 
 ## Before the crossings
 
@@ -41,6 +40,6 @@ Present-day Emberwreath is rebuilt, busy, sacred, practical, scarred, and not fu
 
 ## Read next
 
-- [Timeline]({{ '/history-beliefs/timeline/' | url }})
-- [Religion Quick Guide]({{ '/history-beliefs/religion-quick-guide/' | url }})
 - [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }})
+- [Religion Quick Guide]({{ '/history-beliefs/religion-quick-guide/' | url }})
+- [Timeline]({{ '/history-beliefs/timeline/' | url }})
