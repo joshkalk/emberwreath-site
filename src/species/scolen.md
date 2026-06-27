@@ -16,7 +16,7 @@ The lower gate cracked before dawn. By sunrise, half the canal district was awak
 - **Common places to start:** gates, basins, locks, archive courts, hatchery shores, bridgeheads, reservoir roads, repair yards, and canal districts of Caelmere.
 - **Character hooks:** Reservoir guard, canal-road scout, hatchery warden, archive investigator, flood-breaker, wandering surveyor, civic reciter, apprentice seeking a name, or Scolen seeking restitution.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/scolen/scolen-routine.webp' | url }}" alt="Scolen of Caelmere in an everyday canal and reservoir scene">
@@ -162,7 +162,7 @@ Your Scolen character has traits shaped by a lake-born life cycle, many-legged b
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

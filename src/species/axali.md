@@ -16,7 +16,7 @@ When Lady Berathina appeared at the Mirrored Baths wearing a single ribbon of Co
 - **Common places to start:** cenotes, mineral pools, hidden rivers, lanternlit bath courts, steam gardens, textile houses, humid estates, surface docks, trade yards, and artisan workshops.
 - **Character hooks:** formal duelist, bath-trained healer, traveling dyer, pigment maker, house envoy, disgraced heir, social investigator, merchant’s guard, performer, or runaway court favorite.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/axali/axali-routine.webp' | url }}" alt="Axali in an everyday Emberwreath scene">
@@ -161,7 +161,7 @@ Your Axali character has traits shaped by a freshwater amphibian body, dim limes
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

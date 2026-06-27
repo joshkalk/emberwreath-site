@@ -27,7 +27,7 @@ Follow this order if you are starting from nothing:
 
 1. **World Overview:** Read [What Is Emberwreath?]({{ '/start-here/what-is-emberwreath/' | url }}) for the basic campaign pitch, then [Map in Two Minutes]({{ '/start-here/map-in-two-minutes/' | url }}) if you want a quick geography pass.
 2. **History & Beliefs:** Skim [History & Beliefs]({{ '/history-beliefs/' | url }}) for the public memory, religious context, and warnings ordinary people know.
-3. **Species:** Use the [Species Comparison]({{ '/species/species-comparison/' | url }}) for a quick decision, browse [Playable Species]({{ '/species/' | url }}) visually, then open the full species pages for options you are seriously considering.
+3. **Species:** Use the [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) for a quick decision, browse [Playable Species]({{ '/species/' | url }}) visually, then open the full species pages for options you are seriously considering.
 4. **Islands as needed:** Use the [Island Quick Reference]({{ '/atlas/island-quick-reference/' | url }}) when you need a homeland, adopted island, travel route, or environment. You do not need to read the full Atlas up front.
 5. **Character creation notes:** Use [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }}), [Travel Reason Prompts]({{ '/make-a-character/travel-reason-prompts/' | url }}), and the [Party Origin Builder]({{ '/make-a-character/party-origin-builder/' | url }}) when you are ready to make choices.
 
@@ -125,7 +125,7 @@ Bring short answers or strong maybes. You do not need final canon decisions befo
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }})
 - [Travel Reason Prompts]({{ '/make-a-character/travel-reason-prompts/' | url }})
