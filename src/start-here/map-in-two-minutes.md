@@ -10,7 +10,7 @@ layout: layout.njk
   <figcaption>Map of Emberwreath.</figcaption>
 </figure>
 
-The map is an orientation tool, not a complete encyclopedia. Use it to understand where your character might be from, what routes might matter to them, and which places people speak about with caution.
+Use the map to see where your character might be from, what routes might matter to them, and which places people speak about with caution.
 
 ## Homeland islands
 
@@ -28,7 +28,7 @@ Most playable species have a homeland island associated with their oldest commun
 
 Your character can be from a homeland, an adopted island, a port, a route, or a mixed community. The homeland list is a starting point, not a restriction.
 
-## The broad shape of the Wreath
+## The broad shape of Emberwreath
 
 The islands form loose inner and outer crescents around the central Caldera. In broad terms, the inner islands sit closer to the most dangerous volcanic center, while the outer islands and routes often connect trade, migration, pilgrimage, and frontier travel across greater distances.
 
@@ -39,4 +39,4 @@ For player orientation:
 - **Reef regions** can be sacred, dangerous, navigationally difficult, or tied to wreck memory and boundaries.
 - **The Caldera** is the central danger people plan around, warn about, and remember through the eruption 60 years ago.
 
-For more detail, use the [Atlas]({{ '/atlas/' | url }}) or the [Island Quick Reference]({{ '/atlas/island-quick-reference/' | url }}). You do not need to study every island before making a character.
+For more detail, use the [Atlas]({{ '/atlas/' | url }}) or the [Island Quick Reference]({{ '/atlas/island-quick-reference/' | url }}).
