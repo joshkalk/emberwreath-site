@@ -1,6 +1,6 @@
 # Visual Component Classes
 
-Use these reusable classes to keep images, cards, and tables consistent across Emberwreath player-facing pages.
+Use these reusable classes to keep images, cards, and tables consistent across Emberwreath pages.
 
 ## Images
 
