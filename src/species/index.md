@@ -53,12 +53,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="aumari">
-    <img src="{{ '/assets/images/species/aumari/aumari-routine.webp' | url }}" alt="Aumari in an everyday Emberwreath scene">
-    <h2>Aumari</h2>
-    <p><strong>Homeland:</strong> Tidefall Atolls</p>
-    <p>Aumari are soft-bodied brine-gel people of Tidefall’s reef flats, brine pools, tidal roads, and fragile shelters. They survive through compression, chemical sense, tide knowledge, and the discipline of yielding without losing form.</p>
-    <p><strong>Good fit for players who want:</strong> reefs, tides, flexibility, navigation, sensory play, survival through adaptation.</p>
-    <p><a href="{{ '/species/' | url }}#aumari">Review the Aumari overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/aumari/aumari-routine.webp' | url }}" alt="Aumari in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Aumari</h2>
+      <p><strong>Homeland:</strong> Tidefall Atolls</p>
+      <p>Aumari are soft-bodied brine-gel people of Tidefall’s reef flats, brine pools, tidal roads, and fragile shelters. They survive through compression, chemical sense, tide knowledge, and the discipline of yielding without losing form.</p>
+      <p><strong>Good fit for players who want:</strong> reefs, tides, flexibility, navigation, sensory play, survival through adaptation.</p>
+      <p><a href="{{ '/species/aumari/' | url }}">Read the full Aumari page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="axali">
