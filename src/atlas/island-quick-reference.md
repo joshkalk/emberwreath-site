@@ -5,9 +5,9 @@ layout: layout.njk
 
 # Island Quick Reference
 
-Use this page to skim possible character origins without reading full island gazetteers. These cards give player-facing basics: what a place is known for, who commonly lives there, and how it can shape a character origin.
+Use this page to skim possible character origins. Each card shows what a place is known for, who commonly lives there, and how it might shape a character.
 
-Not every island or region is equally suitable as a homeland. Some are ordinary homes, some are frontier or seasonal origins, and some are danger regions better used as warnings, scars, losses, taboos, or backstory pressure.
+Not every island or region works the same way as a homeland. Some are ordinary homes, some are frontier or seasonal origins, and some are danger regions better used as warnings, scars, losses, taboos, or backstory pressure.
 
 ## Homeland islands
 
@@ -100,7 +100,7 @@ Not every island or region is equally suitable as a homeland. Some are ordinary 
     <h2>Rainwall</h2>
     <p><strong>Identity:</strong> Small but vital water-export island.</p>
     <p><strong>Known for:</strong> Storms, cliffs, reservoirs, cisterns, dangerous harbors, and water-loading crews.</p>
-    <p><strong>Commonly lives there:</strong> Mixed population with water workers, reservoir wardens, harbor callers, and foreign water factors.</p>
+    <p><strong>Commonly lives there:</strong> Mixed population with water workers, reservoir wardens, harbor callers, and visiting water traders.</p>
     <p><strong>Origin use:</strong> Cistern crews, storm workers, reservoir families, ship loaders, water inspectors, or people raised around scarcity and hard weather.</p>
   </section>
 
@@ -175,6 +175,6 @@ Not every island or region is equally suitable as a homeland. Some are ordinary 
 
 ## Read next
 
-- [Trade and Travel]({{ '/atlas/trade-and-travel/' | url }})
 - [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }})
+- [Trade and Travel]({{ '/atlas/trade-and-travel/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
