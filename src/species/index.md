@@ -83,12 +83,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="scolen">
-    <img src="{{ '/assets/images/species/scolen/scolen-routine.webp' | url }}" alt="Scolen in an everyday Emberwreath scene">
-    <h2>Scolen</h2>
-    <p><strong>Homeland:</strong> Caelmere</p>
-    <p>Scolen are many-legged civic water people of Caelmere’s crater lakes, reservoirs, canals, archives, and public works. They preserve communities through maintenance, water law, cohort memory, and the belief that forgetting has consequences.</p>
-    <p><strong>Good fit for players who want:</strong> infrastructure, memory, civic responsibility, water law, archives, systems under strain.</p>
-    <p><a href="{{ '/species/' | url }}#scolen">Review the Scolen overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/scolen/scolen-routine.webp' | url }}" alt="Scolen in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Scolen</h2>
+      <p><strong>Homeland:</strong> Caelmere</p>
+      <p>Scolen are many-legged civic water people of Caelmere’s crater lakes, reservoirs, canals, archives, and public works. They preserve communities through maintenance, water law, cohort memory, and the belief that forgetting has consequences.</p>
+      <p><strong>Good fit for players who want:</strong> infrastructure, memory, civic responsibility, water law, archives, systems under strain.</p>
+      <p><a href="{{ '/species/scolen/' | url }}">Read the full Scolen page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="kelden">
