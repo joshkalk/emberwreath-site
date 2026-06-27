@@ -49,7 +49,7 @@ Useful next pages:
 
 - [Character Creation Guide]({{ '/make-a-character/character-creation-guide/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
-- [Species Comparison]({{ '/species/comparison/' | url }})
+- [Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Island Quick Reference]({{ '/atlas/island-quick-reference/' | url }})
 
