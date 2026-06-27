@@ -5,7 +5,7 @@ layout: layout.njk
 
 # Playable Species
 
-Start here when you want a visual, skimmable overview of the nine playable species of Emberwreath. If you want a faster decision aid before reading full species entries, use the [Species Comparison]({{ '/species/comparison/' | url }}).
+Start here when you want a visual, skimmable overview of the nine playable species of Emberwreath. If you want a faster decision aid before reading full species entries, use the [Species Comparison]({{ '/species/species-comparison/' | url }}).
 
 <div class="card-grid species-grid">
   <section class="card species-card" id="humans">
@@ -96,6 +96,6 @@ Start here when you want a visual, skimmable overview of the nine playable speci
 
 ## Next steps
 
-- [Species Comparison]({{ '/species/comparison/' | url }})
+- [Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

@@ -13,7 +13,7 @@ Use this section when you are ready to turn the setting overview and species pag
 
 ## The shortest path
 
-1. Skim the [Species Comparison]({{ '/species/comparison/' | url }}) or browse [Playable Species]({{ '/species/' | url }}).
+1. Skim the [Species Comparison]({{ '/species/species-comparison/' | url }}) or browse [Playable Species]({{ '/species/' | url }}).
 2. Follow the [Character Creation Guide]({{ '/make-a-character/character-creation-guide/' | url }}) one step at a time.
 3. Use [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }}) to choose a homeland, adopted island, route, port, or post-eruption family history.
 4. Pick one or two [Travel Reason Prompts]({{ '/make-a-character/travel-reason-prompts/' | url }}) that explain why your character leaves home.
@@ -27,7 +27,7 @@ For character creation, it is enough to know your species, the place or social w
 
 ## Useful reference pages
 
-- [Species Comparison]({{ '/species/comparison/' | url }})
+- [Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [What Your Character Knows]({{ '/start-here/what-your-character-knows/' | url }})
 - [Map in Two Minutes]({{ '/start-here/map-in-two-minutes/' | url }})
