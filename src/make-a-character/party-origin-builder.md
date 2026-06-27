@@ -39,7 +39,7 @@ This frame works well when characters come from different islands but all unders
 
 The characters are pilgrims, escorts, shrine workers, skeptics, relatives, guards, guides, or fellow travelers around sacred routes.
 
-The Veiled Reefs can be part of this frame through player-facing belief, practice, warning, and common reputation. Do not treat this as a way to answer hidden mysteries.
+The Veiled Reefs can be part of this frame through public belief, practice, warning, and common reputation. Do not treat this as a way to answer hidden mysteries.
 
 ## Recovery-work party
 
@@ -57,13 +57,13 @@ This can include timber scouts, route guards, reservoir workers, port clerks, he
 
 The characters are interested in old places, damaged records, warnings, taboos, salvage claims, or questions that respectable people may not want handled carelessly.
 
-Keep this frame careful and player-facing: curiosity does not grant secret answers, and warnings or boundaries can be part of the story without explaining what lies behind them.
+Keep this frame careful: curiosity does not grant the full truth behind them, and warnings or boundaries can be part of the story without explaining what lies behind them.
 
 ## Questions for the table
 
 - What shared place, job, route, vow, or obligation explains why these characters talk to each other?
 - Which one or two setting tensions does the party care about most?
-- What does the party need from the wider Wreath: work, answers, safety, repair, passage, recognition, or distance?
+- What does the party need from Emberwreath: work, answers, safety, repair, passage, recognition, or distance?
 
 ## Read next
 
