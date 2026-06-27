@@ -24,7 +24,7 @@ Use the official fillable 5e character sheet when you are ready to put your char
 2. Follow the [Character Creation Guide]({{ '/make-a-character/character-creation-guide/' | url }}) one step at a time.
 3. Use [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }}) to choose a homeland, adopted island, route, port, or post-eruption family history.
 4. Pick one or two [Travel Reason Prompts]({{ '/make-a-character/travel-reason-prompts/' | url }}) that explain why your character leaves home.
-5. Once everyone has a species and rough origin, use the [Party Origin Builder]({{ '/make-a-character/party-origin-builder/' | url }}) to find a group frame together.
+5. Once you have a species, origin, and travel reason, send your character concept to the DM.
 
 ## What your character needs
 
@@ -38,4 +38,3 @@ For character creation, focus on your species, the place or social world that sh
 - [Character Creation Guide]({{ '/make-a-character/character-creation-guide/' | url }})
 - [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }})
 - [Travel Reason Prompts]({{ '/make-a-character/travel-reason-prompts/' | url }})
-- [Party Origin Builder]({{ '/make-a-character/party-origin-builder/' | url }})
