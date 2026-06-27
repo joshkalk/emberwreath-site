@@ -7,7 +7,7 @@ layout: layout.njk
 
 Use this section for quick lookup at the table. It is not required reading, and it does not replace [Start Here]({{ '/start-here/' | url }}) or [Make a Character]({{ '/make-a-character/' | url }}).
 
-Some Emberwreath mysteries are intentionally not explained in player-facing references. If a warning, forbidden place, or old story stops short, that is by design.
+Some warnings, forbidden places, and old stories stop short on purpose.
 
 <div class="card-grid">
   <section class="card">
@@ -18,7 +18,7 @@ Some Emberwreath mysteries are intentionally not explained in player-facing refe
 
   <section class="card">
     <h2>Pronunciation Guide</h2>
-    <p>Simple table pronunciations for saying setting names aloud during play.</p>
+    <p>Simple pronunciations for saying setting names aloud during play.</p>
     <p><a href="{{ '/references/pronunciation/' | url }}">Use the Pronunciation Guide</a></p>
   </section>
 </div>
