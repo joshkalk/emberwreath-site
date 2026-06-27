@@ -5,9 +5,8 @@ layout: layout.njk
 
 # Religion Quick Guide
 
-A character can be devout, casual, skeptical, syncretic, or shaped by a tradition without being personally religious. Old island traditions are not gone. The Veiled Reefs are newer and multi-species. Religion in Emberwreath often concerns survival, obligation, boundaries, memory, restraint, and the consequences of ignoring warnings.
+A character can be devout, casual, skeptical, shaped by mixed traditions, or shaped by a tradition without being personally religious. Old island traditions are not gone. The Veiled Reefs are newer and multi-species. Religion in Emberwreath often concerns survival, obligation, boundaries, memory, restraint, and the consequences of ignoring warnings.
 
-These are short player-facing summaries, not individual religion pages.
 
 <div class="card-grid">
   <section class="card">
@@ -105,6 +104,5 @@ The Veiled Reefs are not a blended super-religion and are not owned by one speci
 
 ## Read next
 
-- [Brief History of Emberwreath]({{ '/history-beliefs/brief-history/' | url }})
-- [Timeline]({{ '/history-beliefs/timeline/' | url }})
 - [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }})
+- [Brief History of Emberwreath]({{ '/history-beliefs/brief-history/' | url }})

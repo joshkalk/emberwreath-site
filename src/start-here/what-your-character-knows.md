@@ -5,7 +5,7 @@ layout: layout.njk
 
 # What Your Character Knows
 
-This page summarizes ordinary player-facing knowledge. It does not reveal hidden truths, explain forbidden ruins, or answer mysteries that are meant to remain uncertain in play.
+This page summarizes what most characters might know about Emberwreath. It does not explain forbidden ruins or settle mysteries that remain uncertain in play.
 
 ## Common knowledge
 
@@ -48,4 +48,4 @@ Most people have heard warnings or rumors about the Caldera, forbidden ruins, ta
 
 Most people have also heard of the Veiled Reefs as a newer multi-species pilgrimage tradition tied to sacred waters, dangerous routes, wreck memory, and boundaries. What exactly someone believes about the reefs depends on their home, faith, work, and experience at sea.
 
-Rumors are useful for tone and character choices, but they are not proof. The player site intentionally leaves some mysteries unresolved.
+Rumors are useful for tone and character choices, but they are not proof.
