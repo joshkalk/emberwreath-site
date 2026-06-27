@@ -46,6 +46,6 @@ A fast chronology for character creation and table reference.
 
 ## Read next
 
+- [Make a Character]({{ '/make-a-character/' | url }})
 - [Brief History of Emberwreath]({{ '/history-beliefs/brief-history/' | url }})
 - [Religion Quick Guide]({{ '/history-beliefs/religion-quick-guide/' | url }})
-- [Make a Character]({{ '/make-a-character/' | url }})
