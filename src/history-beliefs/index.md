@@ -7,7 +7,7 @@ layout: layout.njk
 
 Use this page for the layer of history and belief that helps you make a character: what people remember, which places carry weight, and what ordinary customs might shape a family, crew, or hometown.
 
-This is player-facing orientation, not a full lore encyclopedia. Some old ruins, taboo routes, hidden waters, and Caldera questions are intentionally left unresolved so they can matter in play.
+Some old ruins, taboo routes, hidden waters, and Caldera questions are left unresolved so they can matter in play.
 
 ## What People Remember
 
@@ -46,7 +46,7 @@ Common practices might include:
 - preserving named groves, hidden gardens, wells, terraces, wreck memories, or family tools;
 - refusing to salvage certain wrecks, enter forbidden ruins, poison water, waste stores, or mock the dead.
 
-A character can be devout, casual, skeptical, syncretic, or shaped by a custom they do not personally believe. In play, beliefs are most useful when they create choices: what you refuse to do, what you feel obligated to protect, whose warning you trust, and what your family taught you never to ignore.
+A character can be devout, casual, skeptical, shaped by mixed traditions, or shaped by a custom they do not personally believe. In play, beliefs are most useful when they create choices: what you refuse to do, what you feel obligated to protect, whose warning you trust, and what your family taught you never to ignore.
 
 ## What Characters Might Believe
 
@@ -77,8 +77,6 @@ Use any of these prompts to add a little history or belief to a character withou
 ## Useful next pages
 
 - [Brief History of Emberwreath]({{ '/history-beliefs/brief-history/' | url }})
-- [Timeline]({{ '/history-beliefs/timeline/' | url }})
 - [Religion Quick Guide]({{ '/history-beliefs/religion-quick-guide/' | url }})
 - [What Your Character Knows]({{ '/start-here/what-your-character-knows/' | url }})
 - [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }})
-- [Trade and Travel]({{ '/atlas/trade-and-travel/' | url }})
