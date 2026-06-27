@@ -22,12 +22,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="zivari">
-    <img src="{{ '/assets/images/species/zivari/zivari-routine.webp' | url }}" alt="Zivari in an everyday Emberwreath scene">
-    <h2>Zivari</h2>
-    <p><strong>Homeland:</strong> Saffra</p>
-    <p>Zivari are quick, sharp-eyed people of Saffra’s warm terraces, known for public display, productive proof, and careful judgment. Their society prizes color, movement, reputation, and the ability to sustain what one claims.</p>
-    <p><strong>Good fit for players who want:</strong> elegance, reputation, cultivation, medicine, trade goods, public proof.</p>
-    <p><a href="{{ '/species/' | url }}#zivari">Review the Zivari overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/zivari/zivari-routine.webp' | url }}" alt="Zivari in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Zivari</h2>
+      <p><strong>Homeland:</strong> Saffra</p>
+      <p>Zivari are quick, sharp-eyed people of Saffra’s warm terraces, known for public display, productive proof, and careful judgment. Their society prizes color, movement, reputation, and the ability to sustain what one claims.</p>
+      <p><strong>Good fit for players who want:</strong> elegance, reputation, cultivation, medicine, trade goods, public proof.</p>
+      <p><a href="{{ '/species/zivari/' | url }}">Read the full Zivari page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="veyr">
@@ -109,12 +113,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="thryss">
-    <img src="{{ '/assets/images/species/thryss/thryss-routine.webp' | url }}" alt="Thryss in an everyday Emberwreath scene">
-    <h2>Thryss</h2>
-    <p><strong>Homeland:</strong> Veilgarden</p>
-    <p>Thryss are fog-fed plant-bodied people of Veilgarden’s mist valleys, root terraces, damp stone, and careful agriculture. They endure through moisture, elder memory, patient stewardship, and the long work of keeping fragile land alive.</p>
-    <p><strong>Good fit for players who want:</strong> secrecy, patience, fragile ecosystems, hidden valleys, elder memory, quiet endurance.</p>
-    <p><a href="{{ '/species/' | url }}#thryss">Review the Thryss overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/thryss/thryss-routine.webp' | url }}" alt="Thryss in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Thryss</h2>
+      <p><strong>Homeland:</strong> Veilgarden</p>
+      <p>Thryss are fog-fed plant-bodied people of Veilgarden’s mist valleys, root terraces, damp stone, and careful agriculture. They endure through moisture, elder memory, patient stewardship, and the long work of keeping fragile land alive.</p>
+      <p><strong>Good fit for players who want:</strong> secrecy, patience, fragile ecosystems, hidden valleys, elder memory, quiet endurance.</p>
+      <p><a href="{{ '/species/thryss/' | url }}">Read the full Thryss page</a></p>
+    </div>
   </section>
 </div>
 
