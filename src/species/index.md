@@ -66,12 +66,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="axali">
-    <img src="{{ '/assets/images/species/axali/axali-routine.webp' | url }}" alt="Axali in an everyday Emberwreath scene">
-    <h2>Axali</h2>
-    <p><strong>Homeland:</strong> Hollowdeep</p>
-    <p>Axali are graceful freshwater amphibious people of Hollowdeep’s grottoes, baths, pigments, textiles, and hidden rivers. Their culture treats color, posture, hospitality, and public presentation as serious tools of status, beauty, discipline, and consequence.</p>
-    <p><strong>Good fit for players who want:</strong> hidden water, hospitality, poise, beauty with stakes, controlled access, social consequence.</p>
-    <p><a href="{{ '/species/' | url }}#axali">Review the Axali overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/axali/axali-routine.webp' | url }}" alt="Axali in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Axali</h2>
+      <p><strong>Homeland:</strong> Hollowdeep</p>
+      <p>Axali are graceful freshwater amphibious people of Hollowdeep’s grottoes, baths, pigments, textiles, and hidden rivers. Their culture treats color, posture, hospitality, and public presentation as serious tools of status, beauty, discipline, and consequence.</p>
+      <p><strong>Good fit for players who want:</strong> hidden water, hospitality, poise, beauty with stakes, controlled access, social consequence.</p>
+      <p><a href="{{ '/species/axali/' | url }}">Read the full Axali page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="scolen">
