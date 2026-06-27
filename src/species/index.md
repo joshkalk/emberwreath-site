@@ -92,12 +92,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="kelden">
-    <img src="{{ '/assets/images/species/kelden/kelden-routine.webp' | url }}" alt="Kelden in an everyday Emberwreath scene">
-    <h2>Kelden</h2>
-    <p><strong>Homeland:</strong> Ashspine</p>
-    <p>Kelden are heavy basalt-bodied people of Ashspine’s cliffs, ash slopes, vents, ledges, and broken ridges. They are grounded survivors who master controlled descent, rescue, stone judgment, and calm strength in dangerous terrain.</p>
-    <p><strong>Good fit for players who want:</strong> volcanic danger, endurance, rescue, stonecraft, calm strength, controlled risk.</p>
-    <p><a href="{{ '/species/' | url }}#kelden">Review the Kelden overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/kelden/kelden-routine.webp' | url }}" alt="Kelden in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Kelden</h2>
+      <p><strong>Homeland:</strong> Ashspine</p>
+      <p>Kelden are heavy basalt-bodied people of Ashspine’s cliffs, ash slopes, vents, ledges, and broken ridges. They are grounded survivors who master controlled descent, rescue, stone judgment, and calm strength in dangerous terrain.</p>
+      <p><strong>Good fit for players who want:</strong> volcanic danger, endurance, rescue, stonecraft, calm strength, controlled risk.</p>
+      <p><a href="{{ '/species/kelden/' | url }}">Read the full Kelden page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="thryss">
