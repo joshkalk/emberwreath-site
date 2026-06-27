@@ -9,12 +9,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
 
 <div class="card-grid species-grid">
   <section class="card species-card" id="humans">
-    <img src="{{ '/assets/images/species/humans/humans-routine.webp' | url }}" alt="Humans in an everyday Emberwreath scene">
-    <h2>Humans</h2>
-    <p><strong>Homeland:</strong> Breadbasket</p>
-    <p>Humans are the most numerous people of Emberwreath, rooted in Breadbasket’s farms, roads, granaries, ports, and crowns. They are builders of systems, moving food, labor, law, soldiers, debts, and ambition across the archipelago.</p>
-    <p><strong>Good fit for players who want:</strong> civic duty, ambition, politics, food systems, roads, trade, social pressure.</p>
-    <p><a href="{{ '/species/' | url }}#humans">Review the Humans overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/humans/humans-routine.webp' | url }}" alt="Humans in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Humans</h2>
+      <p><strong>Homeland:</strong> Breadbasket</p>
+      <p>Humans are the most numerous people of Emberwreath, rooted in Breadbasket’s farms, roads, granaries, ports, and crowns. They are builders of systems, moving food, labor, law, soldiers, debts, and ambition across the archipelago.</p>
+      <p><strong>Good fit for players who want:</strong> civic duty, ambition, politics, food systems, roads, trade, social pressure.</p>
+      <p><a href="{{ '/species/humans/' | url }}">Read the full Humans page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="zivari">
