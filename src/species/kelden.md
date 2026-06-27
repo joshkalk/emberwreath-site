@@ -5,9 +5,7 @@ layout: layout.njk
 
 # Kelden
 
-**Homeland:** Ashspine
-
-The lower path is gone. Tie the child to my harness, step when I say step, and do not look for a road.
+*The lower path is gone. Tie the child to my harness, step when I say step, and do not look for a road.*
 
 ## At a glance
 

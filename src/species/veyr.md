@@ -5,11 +5,9 @@ layout: layout.njk
 
 # Veyr
 
-**Homeland:** Sunspire
+*The herd would not cross the white stones. The merchant cursed the delay, pointed to the green hollow beyond, and offered two silver more for haste. The Veyr guide turned their blank clay mask toward him, inner lights dim behind the eye openings, and rang one small bell at their wrist. Every goat knelt in the dust.*
 
-The herd would not cross the white stones. The merchant cursed the delay, pointed to the green hollow beyond, and offered two silver more for haste. The Veyr guide turned their blank clay mask toward him, inner lights dim behind the eye openings, and rang one small bell at their wrist. Every goat knelt in the dust.
-
-“There is grass beyond the stones,” the Veyr said. “There are also roads that should not be remembered aloud.”
+*“There is grass beyond the stones,” the Veyr said. “There are also roads that should not be remembered aloud.”*
 
 ## At a glance
 
