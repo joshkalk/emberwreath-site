@@ -5,9 +5,7 @@ layout: layout.njk
 
 # Axali
 
-**Homeland:** Hollowdeep
-
-When Lady Berathina appeared at the Mirrored Baths wearing a single ribbon of Cobalt Veil, three houses took it for a declaration and a fourth called it an insult. She declined to explain herself. The next morning, when a collapsed passage trapped six dyers below the steam galleries, she tied the same ribbon around her sword arm and entered the flooded dark.
+*When Lady Berathina appeared at the Mirrored Baths wearing a single ribbon of Cobalt Veil, three houses took it for a declaration and a fourth called it an insult. She declined to explain herself. The next morning, when a collapsed passage trapped six dyers below the steam galleries, she tied the same ribbon around her sword arm and entered the flooded dark.*
 
 ## At a glance
 

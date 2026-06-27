@@ -5,9 +5,7 @@ layout: layout.njk
 
 # Thryss
 
-**Homeland:** Veilgarden
-
-The terrace drinks before the field does. The field drinks before the house does. The house drinks before I do. That is not sacrifice. That is how anything survives here.
+*The terrace drinks before the field does. The field drinks before the house does. The house drinks before I do. That is not sacrifice. That is how anything survives here.*
 
 ## At a glance
 

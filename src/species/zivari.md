@@ -5,17 +5,15 @@ layout: layout.njk
 
 # Zivari
 
-**Homeland:** Saffra
+*The leaves were beautiful, the jars were sealed, and the balcony was full of buyers. Rasil of Pepperglass spread his throat fan until it shone like red oil in the sun.*
 
-The leaves were beautiful, the jars were sealed, and the balcony was full of buyers. Rasil of Pepperglass spread his throat fan until it shone like red oil in the sun.
+*“You have seen the harvest,” he called. “Now ask what your own ships are worthy to carry.”*
 
-“You have seen the harvest,” he called. “Now ask what your own ships are worthy to carry.”
+*Below him, Miren Clear-Eye lifted one drying tray, turned three leaves between her fingers, and set it down.*
 
-Below him, Miren Clear-Eye lifted one drying tray, turned three leaves between her fingers, and set it down.
+*Rasil’s fan folded halfway.*
 
-Rasil’s fan folded halfway.
-
-“The third rack waits,” he said. “These are not ready.”
+*“The third rack waits,” he said. “These are not ready.”*
 
 ## At a glance
 

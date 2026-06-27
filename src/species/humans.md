@@ -5,9 +5,7 @@ layout: layout.njk
 
 # Humans
 
-**Homeland:** Breadbasket
-
-When the eastern granary burned, the millers did not wait for a magistrate. By sunrise, three bakeries had pooled their flour, the road crews had cleared the lower bridge, and every cart captain in Harrowbend knew which village would go hungry first. That afternoon, Mara Vell took a spear, a tally slate, and six strangers down the convoy road.
+*When the eastern granary burned, the millers did not wait for a magistrate. By sunrise, three bakeries had pooled their flour, the road crews had cleared the lower bridge, and every cart captain in Harrowbend knew which village would go hungry first. That afternoon, Mara Vell took a spear, a tally slate, and six strangers down the convoy road.*
 
 ## At a glance
 
