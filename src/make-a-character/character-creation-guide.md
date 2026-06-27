@@ -19,7 +19,7 @@ You do not need to know every island or every old warning before play. A strong 
 
 - **A species** that gives you a first cultural lens.
 - **A homeland, adopted island, route, or settlement** that shaped your daily life.
-- **A reason to travel** that connects you to the wider Wreath.
+- **A reason to travel** that connects you to Emberwreath.
 
 ## What to read first
 
@@ -57,7 +57,7 @@ Choose a species whose full page points toward roads, ports, navigation, cargo, 
 
 ### If you want ancient duty, taboo, or restraint
 
-Choose a species whose public culture gives your character a reason to respect boundaries, remember warnings, or carry old responsibilities without needing secret answers.
+Choose a species whose public culture gives your character a reason to respect boundaries, remember warnings, or carry old responsibilities without needing the full truth behind them.
 
 - [Veyr]({{ '/species/veyr/' | url }}): sacred boundaries, restraint, old roads, and places that should not be reopened.
 - [Thryss]({{ '/species/thryss/' | url }}): patience, elder memory, hidden valleys, and careful stewardship of fragile land.
