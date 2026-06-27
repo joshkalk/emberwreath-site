@@ -44,12 +44,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="ferren">
-    <img src="{{ '/assets/images/species/ferren/ferren-routine.webp' | url }}" alt="Ferren in an everyday Emberwreath scene">
-    <h2>Ferren</h2>
-    <p><strong>Homeland:</strong> Greenwood</p>
-    <p>Ferren are wiry mustelid people of Greenwood’s cold forests, timber roads, harbors, ropeways, and winter shelters. They are climbers, hunters, rescuers, and hearth-keepers who measure loyalty by whether people are fed, sheltered, and brought home.</p>
-    <p><strong>Good fit for players who want:</strong> forests, rescue, loyalty, frontier life, hunting, climbing, hearth and kin.</p>
-    <p><a href="{{ '/species/' | url }}#ferren">Review the Ferren overview</a></p>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/ferren/ferren-routine.webp' | url }}" alt="Ferren in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Ferren</h2>
+      <p><strong>Homeland:</strong> Greenwood</p>
+      <p>Ferren are wiry mustelid people of Greenwood’s cold forests, timber roads, harbors, ropeways, and winter shelters. They are climbers, hunters, rescuers, and hearth-keepers who measure loyalty by whether people are fed, sheltered, and brought home.</p>
+      <p><strong>Good fit for players who want:</strong> forests, rescue, loyalty, frontier life, hunting, climbing, hearth and kin.</p>
+      <p><a href="{{ '/species/ferren/' | url }}">Read the full Ferren page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="aumari">
