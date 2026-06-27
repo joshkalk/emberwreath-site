@@ -14,8 +14,9 @@ Start here if you are making a character for the first time.
 <div class="card-grid">
   <section class="card">
     <h2>Start Here</h2>
-    <p>New to Emberwreath? Begin with the short orientation path.</p>
+    <p>New to Emberwreath? Begin with the short orientation path, then use the Character Creation Guide to choose a species.</p>
     <p><a href="{{ '/start-here/' | url }}">Go to Start Here</a></p>
+    <p><a href="{{ '/make-a-character/character-creation-guide/' | url }}">Open the Character Creation Guide</a></p>
   </section>
 
   <section class="card">
