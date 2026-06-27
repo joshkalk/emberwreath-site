@@ -5,7 +5,7 @@ layout: layout.njk
 
 # Thryss
 
-*The terrace drinks before the field does. The field drinks before the house does. The house drinks before I do. That is not sacrifice. That is how anything survives here.*
+*“The terrace drinks before the field does. The field drinks before the house does. The house drinks before I do. That is not sacrifice. That is how anything survives here.”*
 
 ## At a glance
 
@@ -18,7 +18,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/thryss/thryss-routine.webp' | url }}" alt="Thryss of Veilgarden in an everyday high fog valley scene">
-  <figcaption>Thryss of Veilgarden are shaped by fog valleys, moisture, terrace repair, elder memory, careful agriculture, and the long work of keeping fragile land alive.</figcaption>
+  <figcaption>Thryss of Veilgarden tend fog terraces, root courts, seedling beds, and damp stone paths in the long work of keeping fragile land alive.</figcaption>
 </figure>
 
 ## On this page

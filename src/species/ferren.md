@@ -5,7 +5,7 @@ layout: layout.njk
 
 # Ferren
 
-*The upper road is gone, the bridge posts are iced through, and the harbor bell has not answered since nightfall. So we take rope, saw, lantern, and sled. If they are alive, they are waiting for us. If they are waiting, we go.*
+*“The upper road is gone, the bridge posts are iced through, and the harbor bell has not answered since nightfall. So we take rope, saw, lantern, and sled. If they are alive, they are waiting for us. If they are waiting, we go.”*
 
 ## At a glance
 
