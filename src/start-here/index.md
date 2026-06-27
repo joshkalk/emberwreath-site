@@ -10,7 +10,7 @@ Welcome to Emberwreath.
 You do not need to read everything before making a character. The player site is here to help you make useful choices, not to assign homework.
 
 <div class="callout">
-<strong>Shortest useful reading path:</strong> read the three orientation pages below, then use the Character Creation Guide to choose a species, homeland or adopted island, and reason to travel.
+<strong>Fastest useful path:</strong> read the three orientation pages below, choose a species, choose a homeland or adopted island, then make the character you want to play.
 </div>
 
 ## Read first
@@ -18,7 +18,7 @@ You do not need to read everything before making a character. The player site is
 <div class="card-grid">
   <section class="card">
     <h2>What Is Emberwreath?</h2>
-    <p>A quick setting pitch for the Wreath: what kind of place it is, how connected it is, and why the Caldera still matters.</p>
+    <p>A quick setting pitch for Emberwreath: what kind of place it is, how connected it is, and why the Caldera matters.</p>
     <p><a href="{{ '/start-here/what-is-emberwreath/' | url }}">Read the setting pitch</a></p>
   </section>
 
@@ -49,7 +49,7 @@ Useful next pages:
 
 - [Character Creation Guide]({{ '/make-a-character/character-creation-guide/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Island Quick Reference]({{ '/atlas/island-quick-reference/' | url }})
 
@@ -57,4 +57,4 @@ Useful next pages:
 
 The [Atlas]({{ '/atlas/' | url }}) is mainly a character-origin tool. Use it when you want to choose where your character is from, where they have traveled, or what kind of island shaped them. You do not need to memorize every island before session one.
 
-Some mysteries are intentionally not fully explained on the player site. If a place is described through warnings, rumors, taboos, or incomplete records, that is usually enough for character creation.
+Some mysteries are left open on purpose. You can make a character without solving them first.

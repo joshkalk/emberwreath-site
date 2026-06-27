@@ -16,7 +16,7 @@ The upper road is gone, the bridge posts are iced through, and the harbor bell h
 - **Common places to start:** cold forests, wet harbors, timber roads, ropeway crossings, inland villages, winter stations, route shelters, and trade stations.
 - **Character hooks:** Warden’s retainer, timber scout, hunter, ship rigger, bridge worker, rescuer, woodcarver, traveling healer, or runaway heir.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/ferren/ferren-routine.webp' | url }}" alt="Ferren of Greenwood in an everyday cold timber scene">
@@ -161,7 +161,7 @@ Your Ferren character has traits shaped by a long climbing frame, dense northern
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

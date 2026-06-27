@@ -24,7 +24,7 @@ Rasil’s fan folded halfway.
 - **Common places to start:** terraced hillsides, orchard paths, spice houses, drying courts, mist-catching ridges, market balconies, old stone stairs, roof paths, fragrant workshops, and carefully guarded water.
 - **Character hooks:** Terrace-mark bearer, failed-claim restorer, spouse-circle runaway, clutch-sibling rival, fraud exposer, blighted-crop healer, debt repayer, quality assessor, courier, or wandering trader.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/zivari/zivari-routine.webp' | url }}" alt="Zivari of Saffra in an everyday warm terrace scene">
@@ -184,7 +184,7 @@ Your Zivari character has traits shaped by smooth scales, warm-stone movement, t
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

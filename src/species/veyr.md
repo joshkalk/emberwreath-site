@@ -18,7 +18,7 @@ The herd would not cross the white stones. The merchant cursed the delay, pointe
 - **Common places to start:** route-bands, herd-lines, dry roads, old cistern approaches, surviving pastures, well communities, caravan routes, and Sunspire port edges.
 - **Character hooks:** caravan guide, range-witness, boundary-keeper, herd guardian, mask-mender, dryland scout, wandering mediator, animal handler, relic seeker, or quiet pilgrim.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/veyr/veyr-routine.webp' | url }}" alt="Veyr in an everyday Emberwreath scene">
@@ -181,7 +181,7 @@ Your Veyr character has traits shaped by a kindled body, dry pastoral roads, war
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

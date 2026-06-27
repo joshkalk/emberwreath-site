@@ -16,7 +16,7 @@ The lower path is gone. Tie the child to my harness, step when I say step, and d
 - **Common places to start:** cliffs, ash slopes, sulfur fields, broken ridges, ledge gardens, shelters, cisterns, descent-lines, and trade routes from Ashspine.
 - **Character hooks:** Ashfall survivor, cliff rescuer, broken-ridge exile, sulfur-field laborer, ledge gardener, stone mason, water-store guardian, descent instructor, ruin scout, or caravan shield.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/kelden/kelden-routine.webp' | url }}" alt="Kelden of Ashspine in an everyday volcanic cliff scene">
@@ -167,7 +167,7 @@ Your Kelden character has traits shaped by a dense mineralized body, volcanic cl
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
