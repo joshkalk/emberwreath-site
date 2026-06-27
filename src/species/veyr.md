@@ -41,7 +41,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 
 Kindled children of cord, clay, dust, and old pasture roads, the Veyr are a crafted people of Sunspire. They are living range-votives, made through careful communal rites from ceramic, cord, leather, range-cloth, bells, bronze fittings, bone tokens, old repairs, and inner light.
 
-Veyr are not constructs, servants, spirits, ghosts, angels, or tireless tools. They eat, drink, rest, learn, grieve, mend, remember, and choose. They are people, uncanny in form and practical in life.
+Veyr are people, uncanny in form and practical in life. They eat, drink, rest, learn, grieve, mend, remember, and choose. Though crafted rather than born, they are not property, tools, or servants.
 
 Most Veyr understand themselves through roads. They guide herds between surviving pastures, tend markers beside dry gullies, watch old cistern approaches, judge when grazing land must recover, and stand before places that should not be reopened. A Veyr might explain their duty simply: “I was made to guide the living around places that should not be reopened.”
 
@@ -129,7 +129,7 @@ Other islanders often mistake Veyr for relics, omens, or animated remains of a v
 
 ## Names
 
-Veyr names are sexless and usually short, shaped by resonant cords and ceramic mask-faces. They favor dry consonants, soft fricatives, low vowels, and sounds that carry clearly across open ground. A Veyr may have a kindled name, a route-band association, and one or more witness titles earned through work.
+Veyr names are sexless and usually short, shaped by resonant cords and ceramic mask-faces. They favor short, dry-sounding names with soft breath sounds, low vowels, and sounds that carry clearly across open ground. A Veyr may have a kindled name, a route-band association, and one or more witness titles earned through work.
 
 **Kindled Names:** Arvek, Besh, Darel, Eshun, Havar, Iral, Leth, Maivar, Nesh, Orrek, Ravel, Soth, Taren, Thoval, Uresh, Yarun
 

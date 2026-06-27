@@ -31,7 +31,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 
 ## On this page
 
-- [Quick Children of Warm Stone](#quick-children-of-warm-stone)
+- [Children of Warm Stone](#children-of-warm-stone)
 - [Smooth Scales, Bright Fans, and Narrow Tails](#smooth-scales-bright-fans-and-narrow-tails)
 - [Clothing and Equipment](#clothing-and-equipment)
 - [Saffra and the Terraces](#saffra-and-the-terraces)
@@ -43,7 +43,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 - [Zivari Traits](#zivari-traits)
 - [Reference Sheet](#reference-sheet)
 
-## Quick Children of Warm Stone
+## Children of Warm Stone
 
 The Zivari are small, smooth-scaled reptilian people shaped by the warm terraces of Saffra. Their homeland is a wealthy southern island of spices, teas, medicinal flowers, citrus, rare herbs, aromatic oils, fragrant woods, grafted orchards, drying courts, market balconies, and cultivated prosperity.
 
@@ -127,7 +127,7 @@ Zivari can belong to any class. Their speed, balance, public force, careful hand
 
 ## How Other Peoples View Zivari
 
-Other peoples often see Zivari as quick, polished, prosperous, sharp-eyed, and demanding. Saffran goods carry prestige across much of the archipelago, and Zivari traders, assessors, herbalists, cooks, and brokers are often welcomed when quality matters.
+Other peoples often see Zivari as quick, polished, prosperous, sharp-eyed, and demanding. Saffra’s goods carry prestige across much of the archipelago, and Zivari traders, assessors, herbalists, cooks, and brokers are often welcomed when quality matters.
 
 That welcome can come with irritation. Some find Zivari status-conscious, theatrical, suspiciously exact, or too willing to turn a casual promise into a measurable obligation.
 
@@ -137,7 +137,7 @@ The Zivari answer judgment plainly: test the seal, smell the leaves, count the j
 
 ## Names
 
-Zivari names often favor sibilants, liquid sounds, and smooth vowels. S, Z, R, L, V, M, T, and soft K sounds are common, especially with A, E, and O sounds. Names tend to feel quick, sun-warmed, and polished rather than harsh, chittering, or draconic.
+Zivari names often favor soft hissing sounds, flowing sounds, and smooth vowels. S, Z, R, L, V, M, T, and soft K sounds are common, especially with A, E, and O sounds. Names tend to feel quick, sun-warmed, and polished rather than harsh, chittering, or draconic.
 
 Most Zivari use a personal name followed by a Terrace name, such as Rasil of Pepperglass or Miren of Clearcourt. In formal settings, a Zivari may add a work title, spouse-circle role, earned name, or public mark.
 
