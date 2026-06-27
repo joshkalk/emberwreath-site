@@ -14,14 +14,25 @@ When the eastern granary burned, the millers did not wait for a magistrate. By s
 - **Homeland:** Breadbasket
 - **Known for:** full granaries, busy roads, crowded ports, practical cooperation, large systems, and adaptable communities.
 - **Common places to start:** farming villages, port districts, convoy camps, frontier hamlets, military outposts, merchant houses, and migrant neighborhoods.
-- **Character hooks:** harvest guard, convoy scout, road warden, granary clerk, former soldier, frontier settler, miller’s apprentice, baker’s child, merchant factor, displaced farmer, canal engineer, tax runner, smuggler, ruin scholar, debt collector, village champion, port laborer, runaway heir, or restless younger child.
+- **Character hooks:** harvest guard, convoy scout, road warden, granary clerk, former soldier, frontier settler, smuggler, ruin scholar, runaway heir, or restless younger child.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/humans/humans-routine.webp' | url }}" alt="Humans in an everyday Emberwreath scene">
   <figcaption>Humans of Breadbasket are shaped by harvests, roads, granaries, ports, labor, and obligation.</figcaption>
 </figure>
+
+## On this page
+
+- [The Weight of the Harvest](#the-weight-of-the-harvest)
+- [Physical Description and Body Plan](#physical-description-and-body-plan)
+- [Homeland and Ecology](#homeland-and-ecology)
+- [Society, Communities, and Values](#society-communities-and-values)
+- [Adventurers](#adventurers)
+- [Names](#names)
+- [Human Traits](#human-traits)
+- [Reference Sheet](#reference-sheet)
 
 ## The Weight of the Harvest
 
@@ -89,18 +100,15 @@ Human adventurers often carry the habits of systems with them. They count ration
 
 ### Adventurer Examples
 
-<div class="card-grid">
-  <figure class="card species-card">
-    <div class="species-card-media">
-      <img class="species-card-image" src="{{ '/assets/images/species/humans/humans-class-monk.webp' | url }}" alt="Human adventurer example">
-    </div>
-    <figcaption class="species-card-body">Human adventurer example.</figcaption>
+<div class="species-art-grid">
+  <figure class="species-art">
+    <img src="{{ '/assets/images/species/humans/humans-class-monk.webp' | url }}" alt="Human monk adventurer.">
+    <figcaption>Human monk adventurer.</figcaption>
   </figure>
-  <figure class="card species-card">
-    <div class="species-card-media">
-      <img class="species-card-image" src="{{ '/assets/images/species/humans/humans-class-thief.webp' | url }}" alt="Human class concept">
-    </div>
-    <figcaption class="species-card-body">Human class concept.</figcaption>
+
+  <figure class="species-art">
+    <img src="{{ '/assets/images/species/humans/humans-class-thief.webp' | url }}" alt="Human thief adventurer.">
+    <figcaption>Human thief adventurer.</figcaption>
   </figure>
 </div>
 
@@ -144,7 +152,7 @@ Your human character has traits shaped by adaptability, broad inheritance, and l
 
 ## Read next
 
-- [Species Comparison]({{ '/species/comparison/' | url }})
+- [Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

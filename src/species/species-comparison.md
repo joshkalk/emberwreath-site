@@ -1,7 +1,7 @@
 ---
 title: Species Comparison
 layout: layout.njk
-permalink: /species/comparison/
+permalink: /species/species-comparison/
 ---
 
 # Species Comparison
