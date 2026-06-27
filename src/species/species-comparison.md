@@ -6,7 +6,7 @@ permalink: /species/species-comparison/
 
 # Species Comparison
 
-Use this page as a quick decision aid when you want to compare the playable species at a glance. Start here for a fast scan, browse the visual overview if you want, then open a full species page when one interests you.
+Use this page when you want to compare the playable species side by side. For images and fuller summaries, browse the Playable Species page, then open a full species page when one interests you.
 
 <div class="table-wrap">
 <table class="comparison-table">

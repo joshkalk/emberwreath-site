@@ -16,7 +16,7 @@ When the eastern granary burned, the millers did not wait for a magistrate. By s
 - **Common places to start:** farming villages, port districts, convoy camps, frontier hamlets, military outposts, merchant houses, and migrant neighborhoods.
 - **Character hooks:** harvest guard, convoy scout, road warden, granary clerk, former soldier, frontier settler, smuggler, ruin scholar, runaway heir, or restless younger child.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/humans/humans-routine.webp' | url }}" alt="Humans in an everyday Emberwreath scene">
@@ -152,7 +152,7 @@ Your human character has traits shaped by adaptability, broad inheritance, and l
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

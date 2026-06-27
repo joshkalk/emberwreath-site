@@ -16,7 +16,7 @@ The terrace drinks before the field does. The field drinks before the house does
 - **Common places to start:** mist valleys, cliff pockets, sheltered terraces, damp stone basins, fog-catching frames, root courts, seedling terraces, and Veilgarden's coastal port.
 - **Character hooks:** Lost seed record seeker, blight investigator, missing-relative searcher, trade debt carrier, fragile shipment escort, elder promise bearer, fog guide, harvest counter, medicine grower, or restless valley youth.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/thryss/thryss-routine.webp' | url }}" alt="Thryss of Veilgarden in an everyday high fog valley scene">
@@ -177,7 +177,7 @@ Your Thryss character has traits shaped by a fog-fed mountain homeland, a waxy p
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})

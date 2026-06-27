@@ -16,7 +16,7 @@ The low road was gone by noon. Iru of Salt-Hollow pressed one formed hand to the
 - **Common places to start:** Tidefall reef flats, brine pools, shell ridges, port districts, farm islands, lake towns, canal districts, construction camps, ships, and mixed-island neighborhoods.
 - **Character hooks:** shelter repairer, cistern cleanser, brine room supporter, Rooted expectation-breaker, Diaspora worker, tide knowledge seeker, substance tester, route reader, water inspector, or identity-seeking traveler.
 
-Back to: [Playable Species]({{ '/species/' | url }}) · [Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
+Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Comparison]({{ '/species/species-comparison/' | url }}) · [Make a Character]({{ '/make-a-character/' | url }}) · [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/aumari/aumari-routine.webp' | url }}" alt="Aumari in an everyday Emberwreath scene">
@@ -164,7 +164,7 @@ Your Aumari character has traits shaped by a soft brine-gel body, tidal homeland
 
 ## Read next
 
-- [Species Comparison]({{ '/species/species-comparison/' | url }})
+- [Quick Species Comparison]({{ '/species/species-comparison/' | url }})
 - [Playable Species]({{ '/species/' | url }})
 - [Make a Character]({{ '/make-a-character/' | url }})
 - [Where Are You From]({{ '/make-a-character/where-are-you-from/' | url }})
