@@ -47,7 +47,7 @@ Aumari have soft, semi-translucent bodies with no fixed skeleton, scales, chitin
 
 An Aumari’s resting shape is usually low, broad, and upright, with a raised front or upper body and a wider lower mass. They can form temporary support limbs for walking, climbing stairs, bracing on a boat deck, or crossing uneven stone. Some shape two simple walking limbs, others three or four, depending on terrain and habit.
 
-Aumari can form up to two manipulator limbs at a time. These limbs may taper, firm, widen, or split slightly at the end for gripping tools, weapons, ropes, or vessels. When speaking with other peoples, many form a stable expression area: a small mouth-fold, raised membrane patch, or cluster of primitive visual organs. Their faces are chosen shapes, not fixed features.
+Aumari can form up to two manipulator limbs at a time. These limbs may taper, firm, widen, or split slightly at the end for gripping tools, weapons, ropes, or vessels. When speaking with other peoples, many form a stable expression area: a small mouth-fold, raised membrane patch, or cluster of simple visual organs. Their faces are chosen shapes, not fixed features.
 
 Aumari read brightness, contrast, motion, texture, and shape far better than color or distant detail. Among themselves, they communicate emotion through posture, ripples, scent, surface tension, opacity, vibration, and formed features. Their voices are often wet, humming, fluted, bubbly, or resonant.
 

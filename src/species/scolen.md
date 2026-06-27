@@ -18,7 +18,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/scolen/scolen-routine.webp' | url }}" alt="Scolen of Caelmere in an everyday canal and reservoir scene">
-  <figcaption>Scolen of Caelmere are shaped by crater lakes, reservoirs, canals, archives, hatchery sanctuaries, and public duty.</figcaption>
+  <figcaption>Scolen of Caelmere move through canal districts, reservoir roads, archive courts, and hatchery sanctuaries shaped by public duty.</figcaption>
 </figure>
 
 ## On this page
@@ -125,7 +125,7 @@ Those who know Scolen well usually learn a sharper truth: they are not devoted t
 
 Scolen do not inherit family names. In youth, they are known by cohort designations, caretaker nicknames, or practical identifiers. Upon entering adult society, each Scolen chooses a personal name before witnesses. In formal use, a Scolen may add a cohort, basin, civic house, apprenticeship, or public title.
 
-Scolen names favor soft consonants, open vowels, and two- or three-syllable shapes. Common sounds include B, V, L, M, R, Z, and soft C sounds. Harsh gutturals, clipped endings, apostrophes, and chittering sounds are uncommon.
+Scolen names favor soft consonants, open vowels, and two- or three-syllable shapes. Common sounds include B, V, L, M, R, Z, and soft C sounds. Harsh throat sounds, clipped endings, apostrophes, and chittering sounds are uncommon.
 
 **Scolen Names:** Arel, Belmar, Cevra, Ebril, Ilvar, Lomar, Mavel, Merra, Olvar, Relin, Semra, Velis, Zoren, Zovra
 
