@@ -5,11 +5,11 @@ layout: layout.njk
 
 # Travel Reason Prompts
 
-Choose one reason your character leaves home, or combine two that point in the same direction. These are prompts, not secret plot hooks with hidden answers.
+Choose one reason your character leaves home, or combine two that point in the same direction.
 
 ## Trade obligation
 
-Who needs you to carry goods, news, payments, contracts, samples, or promises across the Wreath?
+Who needs you to carry goods, news, payments, contracts, samples, or promises across Emberwreath?
 
 ## Family duty
 
@@ -55,7 +55,8 @@ What teaching, omen, vow, shrine practice, pilgrimage story, or disagreement wit
 
 What caution, loss, family rule, witnessed danger, or old warning makes the Caldera matter to you without giving you secret knowledge?
 
+Once you have a travel reason, send your character concept to the DM. The group’s shared starting frame will be built from the submitted characters.
+
 ## Read next
 
 - [Where Are You From?]({{ '/make-a-character/where-are-you-from/' | url }})
-- [Party Origin Builder]({{ '/make-a-character/party-origin-builder/' | url }})
