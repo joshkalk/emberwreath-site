@@ -18,7 +18,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 
 <figure class="image-frame">
   <img src="{{ '/assets/images/species/axali/axali-routine.webp' | url }}" alt="Axali in an everyday Emberwreath scene">
-  <figcaption>Axali of Hollowdeep are shaped by clear springs, grotto halls, baths, pigments, textiles, and the discipline of public presentation.</figcaption>
+  <figcaption>Axali of Hollowdeep are freshwater people of baths, pigments, textiles, formal hospitality, and careful public presentation.</figcaption>
 </figure>
 
 ## On this page

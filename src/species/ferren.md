@@ -36,7 +36,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 
 ## Children of Cold Timber
 
-Long-bodied children of cold forest, worked timber, and winter obligation, Ferren are wiry mustelid people shaped by the conifer woods, wet harbors, and steep crossings of Greenwood. Their claws carry them across bark, rigging, rope lines, roof beams, masts, and storm-broken timber. Their dense coats shed rain and sleet, their tails steady them on narrow spans, and their hands are as comfortable with carving knives and climbing knots as with bows, axes, and tools.
+Shaped by cold forest, worked timber, and winter obligation, Ferren are wiry mustelid people formed by the conifer woods, wet harbors, and steep crossings of Greenwood. Their claws carry them across bark, rigging, rope lines, roof beams, masts, and storm-broken timber. Their dense coats shed rain and sleet, their tails steady them on narrow spans, and their hands are as comfortable with carving knives and climbing knots as with bows, axes, and tools.
 
 Ferren are not gentle keepers of untouched wilderness. They cut, hunt, build, smoke, repair, haul, preserve, and provision. Greenwood’s forests become masts, beams, pitch, barrels, halls, docks, ropeways, crates, sleds, and winter shelters. A grove that is wasted is shameful. A bridge that fails from neglect is worse. Ferren responsibility is measured in usable wood, open routes, stocked hearths, and people brought home before the cold takes them.
 
