@@ -34,7 +34,7 @@ Back to: [Playable Species]({{ '/species/' | url }}) · [Quick Species Compariso
 
 ## The Weight of the Harvest
 
-Children of Breadbasket, full granaries, busy roads, and crowded ports, humans are the most numerous and widely dispersed people in the archipelago. Their homeland is the great agricultural heart of the islands: a land of broad valleys, stepped terraces, grain fields, orchard belts, irrigation channels, mill towns, bakeries, storehouses, windbreak forests, convoy routes, and managed countryside. Breadbasket feeds far more than itself, and its people have learned to think in harvests, ledgers, roads, labor crews, debts, and hungry mouths.
+Shaped by Breadbasket’s full granaries, busy roads, and crowded ports, humans are the most numerous and widely dispersed people in the archipelago. Their homeland is the great agricultural heart of the islands: a land of broad valleys, stepped terraces, grain fields, orchard belts, irrigation channels, mill towns, bakeries, storehouses, windbreak forests, convoy routes, and managed countryside. Breadbasket feeds far more than itself, and its people have learned to think in harvests, ledgers, roads, labor crews, debts, and hungry mouths.
 
 Humans are not bound to Breadbasket. They live across the archipelago as farmers, sailors, soldiers, merchants, builders, scribes, scholars, settlers, diplomats, artisans, laborers, priests, smugglers, and wanderers. A human community might be a farming village beside grain fields, a crowded port district, a convoy camp on a dangerous road, a frontier hamlet, a military outpost, a merchant house, or a migrant neighborhood built by families who left debt, hunger, war, or opportunity behind them.
 
@@ -62,7 +62,7 @@ This abundance shaped human life. A harvest does not move itself from field to m
 
 Breadbasket’s importance gives humans influence far beyond their homeland. Its grain, flour, dried fruit, pressed oils, livestock, beer, seed, and baked goods travel through ports and convoy roads across the archipelago. In wartime, Breadbasket is one of the most contested places in the world. In famine, its storehouses can become symbols of mercy, resentment, corruption, or survival.
 
-Breadbasket’s richest valleys are also shaped by power. Old crowns, landholding families, mill-rights, granary charters, convoy obligations, village debts, irrigation claims, road wardens, tax collectors, magistrates, and port factors all press on the harvest. A king or queen may claim the grain in law, but every road, mill, storehouse, canal, village council, landholder, and convoy captain has its own interests.
+Breadbasket’s richest valleys are also shaped by power. Old crowns, landholding families, mill-rights, granary charters, convoy obligations, village debts, irrigation claims, road wardens, tax collectors, magistrates, and port agents all press on the harvest. A king or queen may claim the grain in law, but every road, mill, storehouse, canal, village council, landholder, and convoy captain has its own interests.
 
 Human power is useful and intrusive. A road can bring trade, medicine, bread, news, and rescue. It can also bring settlers, soldiers, surveyors, tax lists, and claims carved into stone.
 
@@ -92,7 +92,7 @@ Humans become adventurers for practical reasons as often as romantic ones. A har
 
 Some human adventurers leave Breadbasket because its crowded villages and inherited obligations leave little room to breathe. Others leave to serve those same obligations: protecting food shipments, negotiating trade routes, surveying new land, recovering stolen grain, guarding irrigation works, or carrying messages between settlements. Still others seek fortune, glory, knowledge, revenge, faith, or simple curiosity.
 
-A human adventurer might be a harvest guard, convoy scout, road warden, granary clerk, former soldier, frontier settler, miller’s apprentice, baker’s child, merchant factor, displaced farmer, canal engineer, tax runner, smuggler, ruin scholar, debt collector, village champion, port laborer, runaway heir, or restless younger child with no patience for waiting their turn.
+A human adventurer might be a harvest guard, convoy scout, road warden, granary clerk, former soldier, frontier settler, miller’s apprentice, baker’s child, merchant agent, displaced farmer, canal engineer, tax runner, smuggler, ruin scholar, debt collector, village champion, port laborer, runaway heir, or restless younger child with no patience for waiting their turn.
 
 Human adventurers often carry the habits of systems with them. They count rations, ask who owns the road, check the bridge before crossing, notice empty storehouses, distrust vague promises, and understand that hunger can turn honest people dangerous.
 
