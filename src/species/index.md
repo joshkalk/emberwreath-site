@@ -31,12 +31,16 @@ Start here when you want a visual, skimmable overview of the nine playable speci
   </section>
 
   <section class="card species-card" id="veyr">
-    <img src="{{ '/assets/images/species/veyr/veyr-routine.webp' | url }}" alt="Veyr in an everyday Emberwreath scene">
-    <h2>Veyr</h2>
+    <div class="species-card-media">
+      <img class="species-card-image" src="{{ '/assets/images/species/veyr/veyr-routine.webp' | url }}" alt="Veyr in an everyday Emberwreath scene">
+    </div>
+    <div class="species-card-body">
+      <h2>Veyr</h2>
     <p><strong>Homeland:</strong> Sunspire</p>
     <p>Veyr are kindled road-witnesses of Sunspire, living people of mask, cord, clay, leather, and inner light. They guide herds, tend dry routes, remember dangerous boundaries, and protect the living from places that should not be reopened.</p>
     <p><strong>Good fit for players who want:</strong> sacred boundaries, old roads, restraint, mystery, dryland travel, protective duty.</p>
-    <p><a href="{{ '/species/' | url }}#veyr">Review the Veyr overview</a></p>
+      <p><a href="{{ '/species/veyr/' | url }}">Read the full Veyr page</a></p>
+    </div>
   </section>
 
   <section class="card species-card" id="ferren">
